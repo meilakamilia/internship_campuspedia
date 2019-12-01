@@ -1,3 +1,5 @@
+//script tambahan untuk validasi data 
+
 function validate() {
     //validasi nama
     if(document.formSiswa.nama.value == ""){
