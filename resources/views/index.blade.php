@@ -1,3 +1,4 @@
+<!-- Halaman awal Portal Siswa -->
 @extends('inc.header')
     
 @section('title', 'Portal Siswa')
