@@ -37,7 +37,7 @@ class SiswaController extends Controller
 
     public function hapus($no){
         DB::table('tabel_siswa')->where('no', $no)->delete();
-        return redirect('data');
+        return redirect('data')->with('success', 'Penghapusan data berhasil dilakukan');
     }
 
     public function cari(Request $request){
