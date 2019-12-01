@@ -1,0 +1,33 @@
+label{
+    width:115px;
+    font-size: 14px;
+}
+#formInput, #formEdit{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgba(0.0, 0.0, 0.0, 0.1)
+}
+
+#headerPage{
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#pagination{
+    padding: 50px;
+}
+
+#buttonNama{
+    font-size: 20px;
+}
+.nav-link{
+    color: white;
+}
+
+.accordion{
+    padding-top:20px;
+}
+
+.container{
+    padding-top: 10px;
+}
