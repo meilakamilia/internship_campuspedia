@@ -1,3 +1,4 @@
+<!-- Halaman Data Siswa untuk menampilkan semua data siswa. Terdapat fitur edit dan hapus -->
 @extends('inc.header')
 
 @section('title', 'Data Siswa')
