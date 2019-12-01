@@ -1,3 +1,4 @@
+<!-- Halaman Tambah Siswa untuk menambah data siswa -->
 @extends('inc/header')
 
 @section('title','Tambah Siswa')
